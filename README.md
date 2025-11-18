@@ -41,5 +41,10 @@ Se vitórias for maior ou igual a 101 = Imortal.
 
 ## 💻 Como Executar o Projeto
 
-- Pré-requisitos: Você precisa ter o Node.js instalado em sua máquina para rodar o script index.js via terminal, ou pode executar diretamente no console do seu navegador. 
-- Exemplo de Saída: Ao executar o script, o terminal exibirá mensagens no seguinte padrão: "O Herói tem de saldo de **85** está no nível de **Diamante**".
+Para que este script JavaScript rode fora do navegador, você precisa do Node.js, que é um ambiente de execução para JavaScript no lado do servidor (no terminal). 
+
+1. Pré-requisitos: Você precisa ter o Node.js instalado em sua máquina para rodar o script index.js via terminal, ou pode executar diretamente no console do seu navegador. Se você ainda não tem o Node.js instalado, baixe e instale a versão "LTS" (Long-Term Support) do site oficial: nodejs.org.
+2. Baixar e abrir o arquivo: Após baixar este repositório (ou cloná-lo), abra seu editor de código (como o VSCode, Sublime, Atom etc) e abra a pasta deste arquivo.
+3. Abrir o Terminal: Abra a interface de linha de comando do seu editor de código.
+4. Instalar Pacote npm e Executar o Script: Digite npm install no terminal para instalar o pacote. Em seguida, digite node index.js para executá-lo.
+5. Ver a Saída: Após pressionar Enter, o Node irá ler o seu arquivo, executar o JavaScript e imprimir a saída diretamente no seu terminal. Exemplo de Saída: o terminal exibirá mensagens no seguinte padrão: "O Herói tem de saldo de **85** está no nível de **Diamante**".
